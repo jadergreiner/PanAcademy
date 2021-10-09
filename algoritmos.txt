@@ -1,0 +1,76 @@
+Faça um algoritmo que mostre o passo a passo para trocar uma de lâmpada queimada.
+
+1.  Liga o interruptor e verifica se a lampada está funcionando
+2.  Se a lampada não ligar, está queimada
+3.  Desliga o interruptor
+3.  Localiza uma escada
+4.  Localiza uma lampada nova
+5.  Pega a lampada e a escada
+6.  Posiona a escada em baixo da lampada queimada
+7.  Sobe na escada
+8.  Retira a lampada queimada
+9.  Coloca a lampada nova
+10. Desce da escada
+11. Liga o interruptor
+12. Se a lampada não ligar, procura uma nova lampada e repete o processo
+13. Se a lampada ligar, retira a escada e guarda
+
+Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.
+
+1.  Pegar a coleira do Pet
+2.  Colocar a coleira no Pet
+3.  Abrir a porta de casa
+4.  Sair para o lado de fora da casa
+5.  Fechar a porta da casa
+6.  Caminhar com o Pet por 30 minutos
+	 6.1 Se o Pet fizer necessidades:
+		Recolher as necessinades em sacola e jogar no lixo
+	 6.2 Senão:
+		Continuar o passeio
+7.  Retornar para casa
+8.  Abrir a porta de casa
+9.  Entrar dentro de casa
+10. Fechar a porta de casa
+11. Retirar a coleira do Pet
+12. Passeio concluído
+
+Faça um algoritmo que mostre o passo a passo para acessar um computador.
+
+1. identificar se o computador está ligado na tomada (se sim)
+2. ligar o computador
+3. aguardar o carregamento das informações
+4. tela de abertura 
+5. tem mais de 1 usuário (se sim)
+6. identificar o usuário
+7. tem senha (se sim)
+8. colocar a senha para acesso ao computador
+9. acessou ao computador
+
+
+Faça um algoritmo que mostre o passo a passo para lavar um copo
+
+1.  Verifica se existe louça suja
+2.  pega o detergente
+3.  coloca o detergente na bucha
+4.  liga a torneira
+5.  molha a bucha
+6.  pega o copo
+7.  passa a bucha no copo
+8.  lava o copo para tirar o detergente
+9.  desliga a torneira
+10. pega o pano
+11. seca o copo
+12. guarda o copo
+
+Faça um algoritmo que mostre o passo a passo para postar uma foto em um rede social
+
+1. Pegar o celular
+2. abrir a galeria
+3. escolher a foto
+4. clicar em compartilhar
+5. escolher a rede social
+6. clicar na rede social escolhida
+7. escrever uma legenda caso queira
+8. clicar em postar
+
+
