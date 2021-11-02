@@ -1,0 +1,47 @@
+/* 1 */
+{
+    "_id" : ObjectId("61807d84164177e61e5b3fa0"),
+    "nome" : "Algoritmos",
+    "etapa" : 2,
+    "detalhes" : "O Curso de Algoritmo é a base necessária para quem quer aprender em linguagens famosas do mercado, como C, Java, PHP e muitas outras. Inscreva-se no curso agora mesmo e aprenda as técnicas básicas para a construção de programas para dispositivos eletrônicos.",
+    "cargaHoraria" : 1200,
+    "anoLancamento" : 2017,
+    "totalAlunos" : 900,
+    "valorCurso" : 1000
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("61807f85164177e61e5b4027"),
+    "nome" : "Logica de programacacao",
+    "etapa" : 1,
+    "detalhes" : "Curso inicial para destravar e expandir a mentalidade de programador",
+    "cargaHoraria" : 1200,
+    "anoLancamento" : 2017,
+    "totalAlunos" : 900,
+    "valorCurso" : 1000
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("61807fda164177e61e5b403c"),
+    "nome" : "Java Básico",
+    "etapa" : 3,
+    "detalhes" : "Iniciando em Java",
+    "cargaHoraria" : 400,
+    "anoLancamento" : 2019,
+    "totalAlunos" : 800,
+    "valorCurso" : 400
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("6180800d164177e61e5b4042"),
+    "nome" : "Java Intermediario",
+    "etapa" : 4,
+    "detalhes" : "Modulo avançado de POO",
+    "cargaHoraria" : 200,
+    "anoLancamento" : 2020,
+    "totalAlunos" : 200,
+    "valorCurso" : 250
+}
